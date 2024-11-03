@@ -1,2 +1,28 @@
 
 /* css */
+
+body{
+    background-color: #F9E0CF;
+  }
+  h1{background-color: #FEF5EF}
+  img{border: 5px solid black}
+  .c-item{
+    height: 185.7px;
+    width: 1140px;
+  }
+  .c-img{
+    height: 100%;
+    object-fit: cover;
+  }
+  .t-img{
+    height: 266.91px;
+    width: 247.42px;
+  }
+  .work_thumb_txt_wrapper{
+    display: block;
+    font-size: 85%;
+  }
+  .h-img{
+    width: 442.37px;
+    height: 336.72px;
+  }
